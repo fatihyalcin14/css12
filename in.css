@@ -1,0 +1,59 @@
+img{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+section{
+    background-color: azure;
+
+}
+
+#box {
+    text-align: center;
+    
+    }
+    #box .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 20px;
+    color:cornflowerblue;
+    }
+ .kutu{
+        float: left;
+        margin: 5px;
+    }
+ .contanier{
+        background-color: aqua;
+        width:300px;
+        height: 80px;
+        padding: auto;
+        margin-left: 200px;
+
+
+    }
+ .ref{
+        background-color: aqua;
+        width:300px;
+        height: 80px;
+        padding: auto;
+       
+        float: left;
+
+    }
+ .ter{
+        background-color: aqua;
+        width:500px;
+        height: 80px;
+        padding: auto;
+
+    }
+    .clear{
+        clear: both;
+    }
+    .ort{
+        padding: auto;
+    }
+   
